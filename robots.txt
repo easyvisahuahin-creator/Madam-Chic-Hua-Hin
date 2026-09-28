@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://easyvisahuahin-creator.github.io/Madam-Chic-Hua-Hin/sitemap.xml
