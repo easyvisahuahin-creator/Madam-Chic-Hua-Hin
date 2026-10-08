@@ -1,0 +1,9 @@
+.nail-hero{background-image:linear-gradient(rgba(35,27,24,.28),rgba(35,27,24,.48)),url("1790742074459.jpg")}
+.nail-services-grid{grid-template-columns:repeat(3,1fr)}
+.nail-photo-section{padding:80px 7%;background:#f2ece5}
+.nail-photo{max-width:760px;margin:0 auto;text-align:center}
+.nail-photo img{display:block;width:100%;height:auto;max-height:850px;object-fit:cover;object-position:center 35%}
+.nail-photo figcaption{padding:14px 10px;font-size:12px;color:#756b63}
+.nail-page footer a{color:#262321;text-decoration:none}
+@media(max-width:800px){.nail-services-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.nail-services-grid{grid-template-columns:1fr}.nail-photo-section{padding:55px 22px}}
